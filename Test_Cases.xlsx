@@ -1,1 +1,7 @@
+| TC ID  | Test Case                    | Expected Result               | Actual Result                 | Status |
+| ------ | ---------------------------- | ----------------------------- | ----------------------------- | ------ |
+| TC-011 | Add Employee with valid data | Employee created successfully | Employee created successfully | Pass   |
+| TC-012 | Save without First Name      | Validation message displayed  | Validation message displayed  | Pass   |
+| TC-013 | Save without Last Name       | Validation message displayed  | Validation message displayed  | Pass   |
+| TC-014 | Upload employee image        | Image uploaded successfully   | Image uploaded successfully   | Pass   |
 
